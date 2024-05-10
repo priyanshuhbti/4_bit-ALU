@@ -1,6 +1,6 @@
 // VHDL 4 bit ALU Project :: Made by Priyanshu Yadav 2nd ET HBTU Kanpur
 
-gtit
+
 library IEEE;
 use IEEE.STD_LOGIC_1164.ALL;
 
